@@ -35,3 +35,4 @@ def brute_force_rar(rar_path, max_length=4):
 
 # Foydalanish
 brute_force_rar("file.rar")
+# yangi o`zgarishlar
