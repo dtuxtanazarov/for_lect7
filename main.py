@@ -2,7 +2,7 @@ import itertools
 import string
 from unrar import rarfile
 
-
+# Bu klondan amalga oshirilgan o`zgarish
 def brute_force_rar(rar_path, max_length=4):
     characters = string.ascii_lowercase
 
