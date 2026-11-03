@@ -1,0 +1,1 @@
+# SAlom bu yangi file
